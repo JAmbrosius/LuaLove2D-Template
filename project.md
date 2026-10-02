@@ -53,6 +53,7 @@ gezeichnet mit den grundlegenden Löve2D-Zeichenfunktionen (`love.graphics`).
   Die ersten drei Punkte sind die Mindestanforderungen an dieses Projekt -
   ohne die gilt die Abgabe nicht als vollständig.
 -->
+- [ ] project.md anpassen (Beschreibung etc.)
 - [ ] Sonne zeichnen
 - [ ] Haus mit Spitzdach zeichnen
 - [ ] Baum zeichnen
